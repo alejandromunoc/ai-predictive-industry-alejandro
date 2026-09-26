@@ -170,3 +170,5 @@ To maximize the efficacy of IBM Bob, a structured "Role + Context + Constraint" 
   <br>
   <sub><b>Figure 10:</b> Prompting strategy for FFT extraction and IBM Bob's vectorized code generation.</sub>
 </p>
+
+↩️ **[Return to Main Profile & Portfolio](https://github.com/alejandromunoc)**
